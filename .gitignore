@@ -1,6 +1,6 @@
 #allgemeine gitignore
 idea
-
+.idea
 #backend
 backend/target/
 backend/!**/src/main/**/target/
