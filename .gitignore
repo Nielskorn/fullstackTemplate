@@ -1,5 +1,5 @@
 #allgemeine gitignore
-.idea
+idea
 
 #backend
 backend/target/
