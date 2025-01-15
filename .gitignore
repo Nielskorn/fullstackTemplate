@@ -17,3 +17,4 @@ frontend/*.local
 frontend/logs
 /frontend/.gitignore
 
+/frontend/README.md
